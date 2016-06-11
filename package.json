@@ -1,0 +1,24 @@
+{
+  "name": "javascript-calculator",
+  "version": "1.0.0",
+  "description": "Simple calculator written in JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jon1701/JavascriptCalculator.git"
+  },
+  "author": "Jon Balon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jon1701/JavascriptCalculator/issues"
+  },
+  "homepage": "https://github.com/Jon1701/JavascriptCalculator#readme",
+  "devDependencies": {
+    "bootstrap": "^3.3.6",
+    "gulp": "^3.9.1",
+    "jquery": "^3.0.0"
+  }
+}
